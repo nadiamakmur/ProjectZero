@@ -1,0 +1,22 @@
+h1 {
+  font-family: futura, sans-serif;
+  font-size: 1em;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  color: green;
+
+}
+
+li {
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
